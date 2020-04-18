@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_enter_number">Enter Number</string>
+    <string name="lable_plush">+</string>
+    <string name="label_equal">=</string>
+    <string name="lable_one">1</string>
+    <string name="lable_two">2</string>
+    <string name="lable_three">3</string>
+    <string name="lable_four">4</string>
+    <string name="lable_five">5</string>
+    <string name="lable_six">6</string>
+    <string name="lable_seven">7</string>
+    <string name="lable_eight">8</string>
+    <string name="lable_nine">9</string>
+    <string name="lable_zero">0</string>
+    <string name="lable_minus">-</string>
+    <string name="lable_mul">*</string>
+    <string name="lable_div">/</string>
+    <string name="lable_back"><![CDATA[<]]></string>
+    <string name="lable_clear">CE</string>
+    <string name="lable_dot">.</string>
+</resources>
