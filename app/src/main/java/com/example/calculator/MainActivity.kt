@@ -166,6 +166,9 @@ class MainActivity : AppCompatActivity() {
     private fun multiplication() {
         editText?.setText("" + (temp?.times((editText?.text.toString().toDouble()))))
     }
+
+
+
     //Function for addition
     private fun plus() {
 
